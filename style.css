@@ -1,0 +1,27 @@
+#hed{
+    color: black;
+    
+   
+}
+#rmen{
+    padding: 50px;
+    margin: 60px;
+    border-radius: 5px;  
+    backdrop-filter: blur(4px); 
+    font-size: 25px; 
+    
+}
+#piz{
+    padding: 50px;
+    margin: 60px;
+    border-radius: 5px;  
+    backdrop-filter: blur(4px);  
+    
+}
+#shwma{
+    padding: 50px;
+    margin: 60px;
+    border-radius: 5px;  
+    backdrop-filter: blur(4px);  
+    
+}
